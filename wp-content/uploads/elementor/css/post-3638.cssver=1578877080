@@ -1,0 +1,39 @@
+.elementor-3638 .elementor-element.elementor-element-31f458ec > .elementor-container{max-width:881px;}.elementor-3638 .elementor-element.elementor-element-31f458ec:not(.elementor-motion-effects-element-type-background), .elementor-3638 .elementor-element.elementor-element-31f458ec > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://massimmersionapproach.com/wp-content/uploads/2018/09/IMG_1907.jpg");background-size:cover;}.elementor-3638 .elementor-element.elementor-element-31f458ec > .elementor-background-overlay{background-color:#204f70;opacity:0.6;transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-3638 .elementor-element.elementor-element-31f458ec, .elementor-3638 .elementor-element.elementor-element-31f458ec > .elementor-background-overlay{border-radius:0px 0px 0px 0px;}.elementor-3638 .elementor-element.elementor-element-31f458ec{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:80px 0px 30px 0px;}.elementor-3638 .elementor-element.elementor-element-21e3910a > .elementor-element-populated{text-align:center;}.elementor-3638 .elementor-element.elementor-element-530558e8.elementor-widget-heading .elementor-heading-title{color:#ffffff;}.elementor-3638 .elementor-element.elementor-element-530558e8 .elementor-heading-title{font-family:"Permanent Marker", Sans-serif;font-size:55px;letter-spacing:5.3px;}.elementor-3638 .elementor-element.elementor-element-530558e8 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-3638 .elementor-element.elementor-element-3c86f83f > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-3638 .elementor-element.elementor-element-3c86f83f{margin-top:0px;margin-bottom:0px;padding:20px 0px 0px 0px;}.elementor-3638 .elementor-element.elementor-element-1ddc1a2e > .elementor-element-populated{margin:0px 0px 0px 0px;}.elementor-3638 .elementor-element.elementor-element-1c5d9434 .elementor-text-editor{text-align:center;}.elementor-3638 .elementor-element.elementor-element-1c5d9434{color:#212121;font-size:17px;}.elementor-3638 .elementor-element.elementor-element-1c5d9434 > .elementor-widget-container{margin:-5px 000px 25px 0px;}.elementor-3638 .elementor-element.elementor-element-6d4280fa{text-align:center;}.elementor-3638 .elementor-element.elementor-element-6d4280fa.elementor-widget-heading .elementor-heading-title{color:#212121;}.elementor-3638 .elementor-element.elementor-element-6d4280fa .elementor-heading-title{font-family:"Open Sans", Sans-serif;font-size:26px;font-weight:400;}.elementor-3638 .elementor-element.elementor-element-559424b9 > .elementor-container{max-width:800px;}.elementor-3638 .elementor-element.elementor-element-559424b9{margin-top:-10px;margin-bottom:0px;padding:0px 0px 0px 0px;}.elementor-3638 .elementor-element.elementor-element-4880340c{color:#212121;font-family:"Open Sans", Sans-serif;font-size:17px;}.elementor-3638 .elementor-element.elementor-element-8c92da0{color:#212121;font-family:"Open Sans", Sans-serif;font-size:17px;}.elementor-3638 .elementor-element.elementor-element-ce9b2f0{color:#212121;font-family:"Open Sans", Sans-serif;font-size:17px;}.elementor-3638 .elementor-element.elementor-element-0a37e62{color:#212121;font-family:"Open Sans", Sans-serif;font-size:17px;}@media(min-width:1025px){.elementor-3638 .elementor-element.elementor-element-31f458ec:not(.elementor-motion-effects-element-type-background), .elementor-3638 .elementor-element.elementor-element-31f458ec > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-attachment:fixed;}}@media(max-width:1024px){.elementor-3638 .elementor-element.elementor-element-21e3910a > .elementor-element-populated{margin:0px 0px 0px 0px;padding:15px 0px 5px 0px;}.elementor-3638 .elementor-element.elementor-element-530558e8 .elementor-heading-title{font-size:40px;}}@media(max-width:767px){.elementor-3638 .elementor-element.elementor-element-21e3910a > .elementor-element-populated{margin:-20px 0px -12px 0px;padding:0px 0px 0px 0px;}.elementor-3638 .elementor-element.elementor-element-530558e8 .elementor-heading-title{font-size:27px;}.elementor-3638 .elementor-element.elementor-element-1c5d9434 .elementor-text-editor{text-align:center;}.elementor-3638 .elementor-element.elementor-element-1c5d9434 > .elementor-widget-container{margin:0px 0px 15px 0px;padding:0px 0px 0px 0px;}.elementor-3638 .elementor-element.elementor-element-63c91cba{width:100%;}.elementor-3638 .elementor-element.elementor-element-4880340c{font-size:16px;}.elementor-3638 .elementor-element.elementor-element-8c92da0{font-size:16px;}.elementor-3638 .elementor-element.elementor-element-ce9b2f0{font-size:16px;}.elementor-3638 .elementor-element.elementor-element-0a37e62{font-size:16px;}}/* Start custom CSS for section, class: .elementor-element-31f458ec */.elementor-3638 .elementor-element.elementor-element-31f458ec {
+    text-shadow: 2px 2px black;
+}/* End custom CSS */
+/* Start custom CSS for text-editor, class: .elementor-element-1c5d9434 */.link { color: #838383; }
+
+.link:hover { color: #000000;}
+
+.link3 { color: #838383; text-decoration: underline !important;}
+
+.link3:hover { color: #000000; text-decoration: underline;}
+
+.link2 { color: #212121; }
+
+.link2:hover { color: #838383;}/* End custom CSS */
+/* Start custom CSS for text-editor, class: .elementor-element-4880340c */.bq {font-style: normal; border-left: 4px solid #ccc;}/* End custom CSS */
+/* Start custom CSS for text-editor, class: .elementor-element-8c92da0 */.bq {font-style: normal; border-left: 4px solid #ccc;}/* End custom CSS */
+/* Start custom CSS for text-editor, class: .elementor-element-ce9b2f0 */.bq {font-style: normal; border-left: 4px solid #ccc;}/* End custom CSS */
+/* Start custom CSS for text-editor, class: .elementor-element-0a37e62 */.bq {font-style: normal; border-left: 4px solid #ccc;}/* End custom CSS */
+/* Start custom CSS for section, class: .elementor-element-3c86f83f */.bq {font-style: normal; border-left: 4px solid #ccc;}
+.box {
+  border: 1px solid #C5C6C8;
+  background-color:  	#F8F9FB;
+  padding-top: 20px;
+  padding-right: 50px;
+  padding-bottom: 10px;
+  padding-left: 50px;
+  margin: auto;
+  width: 65%;
+  min-width: 300px;
+  margin-bottom: 20px;
+} 
+
+.linkx { color: #838383; }
+
+.linkx:hover { color: #000000;}
+code {background-color: lightgray; color: black;}/* End custom CSS */
+/* Start custom CSS for page-settings */i {
+    font-style: italic;
+}/* End custom CSS */
